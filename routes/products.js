@@ -1,4 +1,4 @@
-const Product = require('../models/product.js');
+const {Product} = require('../models/product.js');
 const express = require('express');
 const router = express.Router();
 
@@ -8,7 +8,6 @@ router.get(`/`, async (req , res) => {
     if(!productList){
         res.status(500).json({success:false})
     }
-
     res.send(productList);
 });
 
