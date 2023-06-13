@@ -49,12 +49,7 @@ Order Example:
             "product" : "5fd293c7d3abe7295b1403c4"
         }
     ],
-    "shippingAddress1" : "Flowers Street , 45",
-    "shippingAddress2" : "1-B",
-    "city": "Prague",
-    "zip": "00000",
-    "country": "Czech Republic",
-    "phone": "+420702241333",
+    "eatAt" : "restourant",
     "user": "5fd51bc7e39ba856244a3b44"
 }
 
