@@ -24,6 +24,9 @@ https://yanuar-dot-capstoneproject-388212.as.r.appspot.com/api/recomenu/users/re
 get Product
 https://yanuar-dot-capstoneproject-388212.as.r.appspot.com/api/recomenu/products
 
+get categories
+https://yanuar-dot-capstoneproject-388212.as.r.appspot.com/api/recomenu/categories
+
 
 
 
