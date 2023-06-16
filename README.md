@@ -20,6 +20,18 @@ https://yanuar-dot-capstoneproject-388212.as.r.appspot.com/api/recomenu/users/re
     "isAdmin": false
 }
 
+https://yanuar-dot-capstoneproject-388212.as.r.appspot.com/api/recomenu/orders
+{
+    "orderItems" : [
+        {
+            "quantity" : 2,
+            "product" : "6487eaf65805849a722925a9"
+        }
+    ],
+    "eatAt" : "restaurant",
+    "user" : "6487ba58fa931888bfd33b8c"
+}
+
 
 get Product
 https://yanuar-dot-capstoneproject-388212.as.r.appspot.com/api/recomenu/products
